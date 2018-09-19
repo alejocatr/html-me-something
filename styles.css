@@ -1,0 +1,21 @@
+body {background-color:Aquamarine }
+p { font-family: "Comic Sans MS";
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 20px; text-align: justify;
+}
+main {
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+    padding-left: 150px; 
+}
+header {text-align: center;}
+ol {text-align: center}
+
+
+h2 {background-color: blue}
+
+#navi { text-align: center;
+}
